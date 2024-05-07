@@ -1,0 +1,5 @@
+{
+  "test.py::test": true,
+  "test.py::test1": true,
+  "ttt.py::test": true
+}
